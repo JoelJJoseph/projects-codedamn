@@ -1,28 +1,28 @@
 name: Eventually - Stunning HTML5 Landing Page
 tags: ["HTML/CSS", "JavaScript"]
-starter-files: https://github.com/codedamn-projects/eventually-stunning-html5-landing-page
+starter-files: https://github.com/JoelJJoseph/html-playground-starter-for-eventually
 type: frontend
 level: easy
 cover-image: https://raw.githubusercontent.com/codedamn-projects/eventually-stunning-html5-landing-page/master/designs/Landing%20Page%20%5BDesktop%5D.jpg
 short-description: A simple and minimal landing page built in HTML5 for a pre-launch to collect email addresses. You will learn about background images and building a deployable landing page in this project.
 long-description: |
-  Your challenge is to build out this landing page and get it looking as close to the design as possible.
+  My task is to develop this landing page and make it look as much like the design as I can.
 
   This project focuses mostly on HTML, CSS and layouts with CSS. There's a tiny bit of JS included for the mobile navigation toggle. But you could also choose to do this without JS!
 
-  You can use any tools you like to help you complete this project. So if you've got something you'd like to practice, feel free to give it a go.
+ This project primarily focuses on HTML, CSS, and CSS layouts. A small amount of JS is present for the toggle for mobile navigation.
 
-  Your users should be able to:
+  The Outcome of this project is to:
 
-  - View the optimal layout for the site depending on their device's screen size 
 
-  - See hover states for all interactive elements on the page 
+  - View the site's ideal layout based on the size of their device's screen.
 
-  - Download the starter code and go through the README.md file.
+  - View the hover states of each of the page's interactive elements.
 
-  The `README.md` file will provide further details about the project. The `style-guide.html` file is where you'll find colors, fonts, etc.
 
-  Don't forget to share your submissions with the community to get feedback. All the best.
+  - More information about the project will be available in the "README.md" file. You can find information on colours, fonts, etc. in the "style-guide.html" file.
+  - And to share my submissions with the community to get feedback. 
+
 
 # https://codedamn.com/projects specific section
 codedamn:
